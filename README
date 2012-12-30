@@ -1,0 +1,10 @@
+Usage:
+
+===================================================
+
+python find.py <dir to start search> <file to find>
+
+
+python find.py / lost_file.txt
+
+====================================================
